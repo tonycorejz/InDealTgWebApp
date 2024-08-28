@@ -1,1 +1,1 @@
-export * from './tgWebAppContext.tsx';
+export * from './tgWebAppContext';
